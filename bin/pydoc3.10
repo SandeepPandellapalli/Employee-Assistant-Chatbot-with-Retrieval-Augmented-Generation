@@ -1,0 +1,5 @@
+#!/Users/sandeep/Documents/Lang_Chain/RAG_Chatbot/venv/bin/python3.10
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()

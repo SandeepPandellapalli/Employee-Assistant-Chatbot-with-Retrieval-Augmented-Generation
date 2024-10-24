@@ -22,3 +22,8 @@ Create a virtual environment and activate it:
 ```bash
 conda create -p venv python=3.10
 conda activate venv/
+
+### Install Dependencies
+Install the required Python libraries specified in requirements.txt(re.txt):
+pip install -r requirements.txt 
+

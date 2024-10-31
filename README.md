@@ -22,6 +22,7 @@ Create a virtual environment and activate it:
 ```bash
 conda create -p venv python=3.10
 conda activate venv/
+```
 
 ### Install Dependencies
 

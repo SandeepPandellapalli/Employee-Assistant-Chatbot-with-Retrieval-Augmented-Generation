@@ -2,6 +2,9 @@
 
 This Streamlit app functions as an Employee Assistant Bot, designed to quickly retrieve and provide information from an Employee Handbook using natural language processing. It integrates LangChain for document retrieval and OpenAI's GPT models for processing and generating responses.
 
+![Chatbot Features](Image.jpg)
+
+
 ## Features
 
 - **Document Loader**: Loads and processes PDF documents to be used as a knowledge base.

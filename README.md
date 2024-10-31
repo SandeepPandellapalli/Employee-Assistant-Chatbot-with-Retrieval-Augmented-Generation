@@ -30,5 +30,15 @@ Install the required Python libraries specified in `requirements.txt` (also refe
 
 ```bash
 pip install -r requirements.txt
+```
 
+### Create .env file
+
+In this project, we utilize OpenAI, which requires an API key for access. You can obtain one by registering on the OpenAI website. Once you have your API key, please add it to the .env file. Additionally, I have included my Langchain API key in this file to log all responses and track costs. If you wish to do the same, please paste your Langchain API key and a project name into the .env file.
+
+```bash
+OPENAI_API_KEY=your_openai_API_key
+LANGCHAIN_API_KEY=your_langchain_API_key
+LANGCHAIN_PROJECT="RAG_Chatbot"
+```
 

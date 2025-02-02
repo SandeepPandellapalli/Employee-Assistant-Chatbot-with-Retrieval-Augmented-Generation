@@ -4,7 +4,6 @@ This Streamlit app functions as an Employee Assistant Bot, designed to quickly r
 
 ![Chatbot Features](Image.jpg)
 
-
 ## Features
 
 - **Document Loader**: Loads and processes PDF documents to be used as a knowledge base.
